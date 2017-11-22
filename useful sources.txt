@@ -1,0 +1,3 @@
+https://github.com/mvirgo/Traffic-Sign-Classifier/blob/master/Traffic_Sign_Classifier.ipynb
+https://github.com/jeremy-shannon/CarND-Traffic-Sign-Classifier-Project/blob/master/Traffic_Sign_Classifier.ipynb
+https://github.com/ckyrkou/Traffic_Sign_Classifier/blob/master/Traffic_Sign_Classifier.ipynb
